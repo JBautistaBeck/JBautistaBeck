@@ -1,11 +1,15 @@
 <h1 align="center">Hello World 👋, I'm Juan Bautista María Beck</h1>
 <h3 align="center">A passionate Full Stack developer from Córdoba, Argentina</h3>
 
-- 🔭 I’m currently working on [Hotel Oasis](https://github.com/pf40a)
+<p>¡Hola! ¡Bienvenidos a mi perfil de GitHub! Soy Juan Bautista María Beck, un estudiante avanzado en Administración de Empresas con una pasión por la programación.
 
-- 📫 How to reach me **juanbautistabeck@gmail.com**
+Durante mi carrera universitaria, mi curiosidad por el mundo de la programación me llevó a dar un paso adelante. Comencé a estudiar programación en Soy Henry y desde entonces, me he sumergido en el maravilloso mundo de la tecnológia.
 
-- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/juan-bautista-maría-beck-06a40026a)
+Hoy en día, estoy constantemente explorando nuevas tecnologías y manteniéndome al día con las últimas tendencias. Poseo sólidos conocimientos en JavaScript, React, Redux, HTML, CSS, Express, Node.js, Sequelize, Git y PostgreSQL.
+
+Si compartes mis intereses o tienes alguna pregunta, no dudes en ponerte en contacto conmigo. Estoy ansioso por conectarme con nuevas personas y aprender juntos en este apasionante mundo tecnológico.
+
+Gracias por tomarte el tiempo para visitar mi perfil. ¡Espero que podamos conectar pronto!</p>
 
 <h3 align="left">Connect with me:</h3>
 <br>
