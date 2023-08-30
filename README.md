@@ -1,15 +1,15 @@
 <h1 align="center">Hello World 👋, I'm Juan Bautista María Beck</h1>
 <h3 align="center">A passionate Full Stack developer from Córdoba, Argentina</h3>
 
-<p>¡Hola! ¡Bienvenidos a mi perfil de GitHub! Soy Juan Bautista María Beck, un estudiante avanzado en Administración de Empresas con una pasión por la programación.
+<p>Hello! Welcome to my GitHub profile! I'm Juan Bautista María Beck, an advanced student in Business Administration with a passion for programming.
 
-Durante mi carrera universitaria, mi curiosidad por el mundo de la programación me llevó a dar un paso adelante. Comencé a estudiar programación en Soy Henry y desde entonces, me he sumergido en el maravilloso mundo de la tecnológia.
+During my university career, my curiosity about the programming world led me to take a step forward. I started studying programming at Soy Henry, and since then, I've immersed myself in the wonderful world of technology.
 
-Hoy en día, estoy constantemente explorando nuevas tecnologías y manteniéndome al día con las últimas tendencias. Poseo sólidos conocimientos en JavaScript, React, Redux, HTML, CSS, Express, Node.js, Sequelize, Git y PostgreSQL.
+Nowadays, I'm constantly exploring new technologies and staying up-to-date with the latest trends. I have strong knowledge in JavaScript, React, Redux, HTML, CSS, Express, Node.js, Sequelize, Git, and PostgreSQL.
 
-Si compartes mis intereses o tienes alguna pregunta, no dudes en ponerte en contacto conmigo. Estoy ansioso por conectarme con nuevas personas y aprender juntos en este apasionante mundo tecnológico.
+If you share my interests or have any questions, feel free to get in touch with me. I'm eager to connect with new people and learn together in this exciting technological world.
 
-Gracias por tomarte el tiempo para visitar mi perfil. ¡Espero que podamos conectar pronto!</p>
+Thank you for taking the time to visit my profile. I hope we can connect soon</p>
 
 <h3 align="left">Connect with me:</h3>
 <br>
