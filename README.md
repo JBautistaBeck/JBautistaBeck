@@ -5,12 +5,12 @@
 
 - 📫 How to reach me **juanbautistabeck@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/juan-bautista-maría-beck-06a40026a](www.linkedin.com/in/juan-bautista-maría-beck-06a40026a)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/juan-bautista-maría-beck-06a40026a)
 
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/juan bautista maría beck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan bautista maría beck" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-bautista-maría-beck-06a40026a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan bautista maría beck" height="30" width="40" /></a>
 <a href="https://instagram.com/bautista.beck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bautista.beck" height="30" width="40" /></a>
 </p>
 
