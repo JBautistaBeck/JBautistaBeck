@@ -9,6 +9,8 @@ Nowadays, I'm constantly exploring new technologies and staying up-to-date with 
 
 If you share my interests or have any questions, feel free to get in touch with me. I'm eager to connect with new people and learn together in this exciting technological world.
 
+📧 Contact: juanbautistabeck@gmail.com
+
 Thank you for taking the time to visit my profile. I hope we can connect soon</p>
 
 <h3 align="left">Connect with me:</h3>
