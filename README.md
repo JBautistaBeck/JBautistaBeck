@@ -5,27 +5,6 @@
 I build the systems that connect product, growth, and revenue — from CRM automation to internal tools that ship fast and get used.
 </p>
 
-<h3 align="left">Stack:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="36" height="36"/></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
-<a href="https://www.hubspot.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/hubspot" alt="hubspot" width="36" height="36"/></a>
-<a href="https://mailchimp.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mailchimp" alt="mailchimp" width="36" height="36"/></a>
-<a href="https://zapier.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zapier" alt="zapier" width="36" height="36"/></a>
-<img src="https://img.shields.io/badge/Clay-1a1a1a?style=flat-square" alt="clay"/>
-<img src="https://img.shields.io/badge/La%20Growth%20Machine-1a1a1a?style=flat-square" alt="la growth machine"/>
-<img src="https://img.shields.io/badge/HeyReach-1a1a1a?style=flat-square" alt="heyreach"/>
-<img src="https://img.shields.io/badge/Instantly-1a1a1a?style=flat-square" alt="instantly"/>
-</p>
-
 <p align="center">
 📧 <a href="mailto:juanbautistabeck@gmail.com">juanbautistabeck@gmail.com</a> ·
 <a href="https://linkedin.com/in/juan-bautista-maría-beck-06a40026a" target="_blank">LinkedIn</a>
